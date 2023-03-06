@@ -26,15 +26,10 @@
 
 
 
-var MavariableNumerique = prompt("entrez un nombre");
-var MavariableCompteur = 1;
-var MavariableCalcul = 2;
+var k = prompt("ecrivez un nombre");
 var i = 1;
-
-while(MavariableNumerique == i){
-    MavariableCompteur = MavariableCompteur + MavariableCalcul;
-    MavariableCalcul = MavariableCalcul + 1;
-    i++;
+for(var u=1; u<=k; u++){
+    i = i*u;   
+   
 }
-
-alert("Le resultat du calcul est" + MavariableCompteur);
+alert("le résultat est = " +i);
