@@ -14,7 +14,7 @@
 
 <!DOCTYPE html>
 <html>
-
+ 
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
@@ -30,8 +30,12 @@
 
 
 
-    <script>multiplie()</script>
-    <script>affiche()</script>
+    <script>
+        multiplie()
+    </script>
+    <script>
+        affiche()
+    </script>
 </body>
 
 
