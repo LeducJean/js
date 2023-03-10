@@ -26,7 +26,7 @@
 
 
 <body>
-    <div id="button" class="buttonclass">Clic moi d'ssus grand fou</div>
+    <div id="button" class="buttonclass">Clic moi dessus grand fou</div>
 </body>
 
 
